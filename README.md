@@ -23,6 +23,9 @@ Github Repository: [github] (https://github.com/CarolHGray/SVG-Logo-Maker).
 
 [Screencastify](https://drive.google.com/file/d/1mWxV0zMx76u2OWmLCXEjvs0LD4b_fKuM/view)
 
+[Screencastify](<iframe src="https://drive.google.com/file/d/1mWxV0zMx76u2OWmLCXEjvs0LD4b_fKuM/preview" width="640" height="480"></iframe>)
+
+
 
 
 
