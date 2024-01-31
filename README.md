@@ -15,3 +15,4 @@ Walkthrough Video: [video] (https://watch.screencastify.com/v/qOBjX9trJ7hQaYajUv
 Github Repository: [github] (https://github.com/CarolHGray/SVG-Logo-Maker)
 
 
+https://app.screencastify.com/v3/watch/qOBjX9trJ7hQaYajUvON
