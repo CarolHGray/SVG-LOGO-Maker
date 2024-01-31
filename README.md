@@ -10,9 +10,9 @@ A command line application that generates a professional looking SVG logo.  A pr
 ## Usage
 Enter node index.js in the command line.  You will be prompted to enter 3 characters, text color, shape, and color of the shape.  After you answer the questions, the application generates an SVG file with code to make a logo based on your answers.
 
-Walkthrough Video: [![video] (https://watch.screencastify.com/v/qOBjX9trJ7hQaYajUvON)]
+Walkthrough Video: [video] (https://watch.screencastify.com/v/qOBjX9trJ7hQaYajUvON)
 
-Github Repository: [![github] (https://github.com/CarolHGray/SVG-Logo-Maker)]
+Github Repository: [github] (https://github.com/CarolHGray/SVG-Logo-Maker)
 
 
 (https://app.screencastify.com/v3/watch/qOBjX9trJ7hQaYajUvON)
